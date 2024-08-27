@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:rental_ui/core/utils/constants.dart';
-import 'package:rental_ui/features/Cars/data/data.dart';
+import 'package:rental_ui/features/data/data.dart';
 
 Widget buildCars(Car car, int? index) {
   return Container(

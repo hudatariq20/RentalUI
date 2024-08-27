@@ -1,7 +1,7 @@
 // ignore_for_file: prefer_const_constructors
 
 import 'package:flutter/material.dart';
-import 'package:rental_ui/features/Cars/data/data.dart';
+import 'package:rental_ui/features/data/data.dart';
 
 Widget buildDealer(Dealer dealer, int index) {
   return Container(

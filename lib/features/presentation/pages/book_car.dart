@@ -5,7 +5,7 @@ import 'package:dots_indicator/dots_indicator.dart';
 import 'package:flutter/material.dart';
 import 'package:rental_ui/core/utils/constants.dart';
 
-import '../../Cars/data/data.dart';
+import '../../data/data.dart';
 
 class BookCar extends StatefulWidget {
   final Car car;

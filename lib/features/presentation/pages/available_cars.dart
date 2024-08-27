@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:rental_ui/core/utils/constants.dart';
-import 'package:rental_ui/features/Cars/data/data.dart';
+import 'package:rental_ui/features/data/data.dart';
 import 'package:rental_ui/features/presentation/pages/book_car.dart';
 import 'package:rental_ui/features/presentation/widgets/car_card.dart';
 

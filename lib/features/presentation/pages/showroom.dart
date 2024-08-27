@@ -10,7 +10,7 @@ import 'package:rental_ui/features/presentation/pages/book_car.dart';
 import 'package:rental_ui/features/presentation/widgets/car_card.dart';
 import 'package:rental_ui/features/presentation/widgets/dealer_card.dart';
 
-import '../../Cars/data/data.dart';
+import '../../data/data.dart';
 
 class ShowRoom extends StatefulWidget {
   const ShowRoom({super.key});
